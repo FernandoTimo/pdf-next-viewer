@@ -1,2 +1,1 @@
-# pdf-next-viewer
-Created with CodeSandbox
+# react-pdf + next js example
